@@ -14,14 +14,15 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1juOzYNvSq53fZ8WVH-o_nwndY2VG3sNE/view?usp=sharing](https://drive.google.com/file/d/1juOzYNvSq53fZ8WVH-o_nwndY2VG3sNE/view?usp=sharing)
 
 
-&nbsp;&nbsp;<h3 align="center">Connect with me:</h3>
+&nbsp;&nbsp;<h2 align="center">Connect with me ☎️ </h2>
 <p align="center">
-<a href="https://twitter.com/atharva30546695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharva30546695" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atharva-patil-9476771a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-patil-9476771a5" height="30" width="40" /></a>
+<a href="https://twitter.com/sahil_kedare_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_kedare_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-kedare-4b89031aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-kedare-4b89031aa" height="30" width="40" /></a>
 </p>&nbsp;&nbsp;
 
 
 <h2 align="center">Languages and Tools 🧰</h2>
+
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
