@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkedare&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="sahilkedare" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkedare&theme=radical&column=7" alt="sahilkedare" /></a></p>&nbsp;&nbsp;
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkedare&theme=chartreuse-dark&column=7" alt="sahilkedare" /></a></p>&nbsp;&nbsp;
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -56,7 +56,7 @@
 
 <h2 align="center">My Github Stats 🥇</h2>
 
-<div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkedare&layout=compact&theme=radical" alt="sahilkedare" /></div>&nbsp;
-<div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=sahilkedare&?include_all_commits=true&theme=radical&show_icons=true" alt="sahilkedare" /></div>
+<div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkedare&layout=compact&theme=chartreuse-dark" alt="sahilkedare" /></div>&nbsp;
+<div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=sahilkedare&?include_all_commits=true&theme=chartreuse-dark&show_icons=true" alt="sahilkedare" /></div>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=sahilkedare&currStreakNum=0066ff&fire=yellow&sideNums=0066ff&sideLabels=ffff00&currStreakLabel=ffff00&theme=radical&date_format=M%20j%5B%2C%20Y%5D&stroke=ffff00&dates=pink&style=centerme" /></div>
