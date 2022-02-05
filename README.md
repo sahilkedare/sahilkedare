@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1juOzYNvSq53fZ8WVH-o_nwndY2VG3sNE/view?usp=sharing](https://drive.google.com/file/d/1juOzYNvSq53fZ8WVH-o_nwndY2VG3sNE/view?usp=sharing)
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools :toolbox:</h2>
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -21,7 +21,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
-
+<h2 align="center">My Github Stats 🥇</h2>
 
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -46,10 +46,9 @@
 <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  -->
 </p>
 <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkedare&show_icons=true&locale=en&layout=compact" alt="sahilkedare" /></p>
 
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkedare&show_icons=true&locale=en" alt="sahilkedare" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkedare&" alt="sahilkedare" /></p>
 
+<div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkedare&layout=compact&theme=radical" alt="sahilkedare" /></div>&nbsp;
+<div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=sahilkedare&?include_all_commits=true&theme=radical&show_icons=true" alt="sahilkedare" /></div>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=sahilkedare&currStreakNum=0066ff&fire=yellow&sideNums=0066ff&sideLabels=ffff00&currStreakLabel=ffff00&theme=radical&date_format=M%20j%5B%2C%20Y%5D&stroke=ffff00&dates=pink&style=centerme" /></div>
