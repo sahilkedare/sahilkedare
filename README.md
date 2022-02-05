@@ -13,15 +13,21 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1juOzYNvSq53fZ8WVH-o_nwndY2VG3sNE/view?usp=sharing](https://drive.google.com/file/d/1juOzYNvSq53fZ8WVH-o_nwndY2VG3sNE/view?usp=sharing)
 
-<h2 align="center">Languages and Tools :toolbox:</h2>
+
+&nbsp;&nbsp;<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/atharva30546695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharva30546695" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atharva-patil-9476771a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-patil-9476771a5" height="30" width="40" /></a>
+</p>&nbsp;&nbsp;
+
+
+<h2 align="center">Languages and Tools 🧰</h2>
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
-
-<h2 align="center">My Github Stats 🥇</h2>
 
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -47,6 +53,7 @@
 </p>
 <br/>
 
+<h2 align="center">My Github Stats 🥇</h2>
 
 <div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkedare&layout=compact&theme=radical" alt="sahilkedare" /></div>&nbsp;
 <div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=sahilkedare&?include_all_commits=true&theme=radical&show_icons=true" alt="sahilkedare" /></div>
